@@ -8,18 +8,10 @@ body{
 .image{
     height:15vh;
     width: 19vh;
-}
-.images{
-    display: flex;
-    justify-content: space-between;
-}
-.main-img{
     position: relative;
-    left: 2vw;
-}
-.w-img{
-    position: relative;
-    right: 2vw;
+    left: 3vw;
+    top:1vh;
+    border-radius: 5px;
 }
 .q{
   margin-left: 6vw;
