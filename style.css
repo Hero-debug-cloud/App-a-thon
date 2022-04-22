@@ -1,0 +1,33 @@
+body{
+    background-color: #d0ebdd;
+}
+
+.container{
+    height: 100vh;
+}
+.image{
+    height:15vh;
+    width: 19vh;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+.main-img{
+    position: relative;
+    left: 2vw;
+}
+.w-img{
+    position: relative;
+    right: 2vw;
+}
+.q{
+  margin-left: 6vw;
+  margin-right: 6vw;
+  margin-top: 6vh;
+  margin-bottom: 6vh;
+}
+.heading{
+    /* border:2px solid red; */
+    text-align: center;
+}
